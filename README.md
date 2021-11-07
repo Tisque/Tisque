@@ -6,11 +6,6 @@
 - <p>🤔 Toda ajuda é bem vinda!</p>
 - <p> <img src="https://emojis.slackmojis.com/emojis/images/1450319458/131/darth_vader.png?1450319458" alt="My Lord"> May the Force be with you </p>
 
-<div align="center">
-  <a href="https://github.com/tisque">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tisque&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tisque&layout=compact&langs_count=7&theme=dark"/>
-</div> 
   
 ##
   <div style="display: inline_block"><br>
